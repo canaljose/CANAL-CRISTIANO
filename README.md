@@ -5,7 +5,7 @@
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,ENLACE
-https://player-api.new.livestream.com/accounts/27460990/events/8266905/broadcasts/230992614.secure.m3u8?dw=14400&hdnea=st%3D1651903951~exp%3D1651905751~acl%3D%2Fi%2F27460990_8266905_lsi0tixa1b8i2g7zpyv_1%40307677%2F%2A~hmac%3D0531a8f6be5c389f0b5b1fcf3a208af8928beb42253d14a56dd20ce34c44538b&token=62760efb_922d352ac9bb9616990c4b72cc81af8955ac7582
+https://player-api.new.livestream.com/accounts/27460990/events/8266905/broadcasts/231164413.m3u8
 
 #EXTINF:-1, LLBN
 https://brightstar-latino.secure.footprint.net/egress/bhandler/brightstar/brightstarLatino/manifest.m3u8
@@ -50,4 +50,4 @@ https://playback.akamaized.net/streams/27460990_8266909_lsiajhbg0q3bd5nz8el_1/me
 https://player-api.new.livestream.com/accounts/27460990/events/8266929/broadcasts/230989774.secure.m3u8?dw=14400&hdnea=st%3D1651904112~exp%3D1651905912~acl%3D%2Fi%2F27460990_8266929_lsitcnya0olihmzatsi_1%40408284%2F%2A~hmac%3Ddd73610c20e50b7ac1b8e4374a5471f261bd9c698973859d4db857179f0d0347&token=62760f9c_f614f31a93ff69a0db645f120c39cb420ffef32d
 
 #EXTINF:-1,  TCI
-https://playback.akamaized.net/streams/27460990_8287184_lsiekdmfkb1ipw0b66c_1/media/27460990_8287184_lsiekdmfkb1ipw0b66c_1@2756000p.m3u8?dw=14400&ts=1651903200&hdnts=exp=1652077044~acl=/streams/27460990_8287184_lsiekdmfkb1ipw0b66c_1/media*~hmac=02224e5f1da856ef8d37d2bb778f80d8b6cef3ecd7cf29b6cd60a6a1c66abdd5
+https://playback.akamaized.net/streams/27460990_8287184_lsiekdmfkb1ipw0b66c_1/media/27460990_8287184_lsiekdmfkb1ipw0b66c_1@2756000p.m3u8?dw=14400&ts=1651903200&hdnts=exp=1652077044~acl=/streams/27460990_8287184_lsiekdmfkb1ipw0b66c_1/media*~hmac=02224e5f1da856ef8d37d2bb778f80d8b6cef3ecd7cf29b6cd60a6a1c66abdd5``
